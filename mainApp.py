@@ -86,7 +86,7 @@ st.sidebar.write("---------------------------------------------")
 st.sidebar.subheader("Support 💻")
 bt_4 = st.sidebar.button("About FORK")
 bt_5 = st.sidebar.button("HELP")
-path= pd.read_csv("./Analytic_Fork.csv")
+
 
 if bt_3:
     st.subheader("Output Visualization")
