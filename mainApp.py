@@ -115,7 +115,7 @@ if bt_3:
 if bt_4:
     st.subheader("ABOUT FORK 📕")
     st.write("Analytic FORK is a analytical tool initially designed to analyse energy and water consumption figure of manufacturing industries and similar companies at each stage of manufacturing and forcast the values for the same.")
-    st.write("But FORCK have alot more potential so after some modification FORCK is ready to analyize and do forcasting on any enterd data (in the required format).")                
+    st.write("But FORCK have alot more potential so after some modification FORCK is ready to analyize and do forcasting on any entered data (in the required format).")                
     st.write("At the present time FORK is using LSTM as its forcasting model.")
     st.write("To get the required format please click on format in support section.")
 
