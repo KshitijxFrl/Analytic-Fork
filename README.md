@@ -24,4 +24,4 @@ When you are done setting up the fork intialize the compute process by going cli
 
 ## Developer Note 💭:- "Hello there!!, If you find yourself with any problem with the app or you want to use the custom modules in your project please feel free to reach out to me on my LinkedIn or on Twitter/X I will be really happy to help you out."
 
-## ⭐ Try Fork ⭐ :- 
+## ⭐ Try Fork ⭐ :- https://analytic-fork.streamlit.app/
