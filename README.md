@@ -13,9 +13,9 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) archit
 > Step 1
 <h1 align="Left"><img src="./assets/step1.png" width="900px"></h1>
 > Step 2
-<h1 align="Left"><img src="./assets/step2(a)(b).png" width="900px"></h1>
-<h1 align="left"><img src="./assets/step2(c).png" width="400px"></h1>
+<h1 align="Left"><img src="./assets/step2(a)(b).png" width="500px"></h1>
+<h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
 > Step 3
-<h1 align="left"><img src="./assets/step2(c).png" width="400px"></h1>
+<h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
 
 ## Try Fork :- https://kshitijxfrl-analytic-fork-mainapp-v37dds.streamlitapp.com/
