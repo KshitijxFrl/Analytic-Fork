@@ -11,7 +11,7 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) archit
 
 ## Begginer User Guid 🎈
 > Step 1 
-Start with uploding the source csv as on which you wish to perform forcasting. (see sample csv)
+Start with uploding the source csv as on which you wish to perform forcasting. (see sample csv below)
 <h1 align="Left"><img src="./assets/step1.png" width="900px"></h1>
 > Step 2
 If you want play around with the settings like Sequence lenght and number of outputs you can do that just go to settings. There are few other settings to mess around but first get use to with these settings first.
