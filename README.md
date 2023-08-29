@@ -5,11 +5,16 @@ Imagine a transformative analytical powerhouse that was originally sculpted to d
 
 ## LSTM
 
-![home screen](./assets/lstm.gif)
+<h1 align="center">Hello <img src="./assets/lstm.gif" width="50px"></h1>
 
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture that addresses the limitations of traditional RNNs in handling long-range dependencies and vanishing gradient problems. LSTMs are designed to capture and retain information over extended sequences, making them particularly useful for tasks involving sequential data like natural language processing, speech recognition, and time series analysis. What sets LSTMs apart is their ability to selectively forget or remember information through a set of specialized gating mechanisms – the input gate, forget gate, and output gate. These gates control the flow of information within the LSTM unit, allowing it to store relevant information over long periods while preventing the degradation of gradient signals during training. This unique architecture has made LSTMs a cornerstone in the development of advanced machine learning models for tasks requiring an understanding of context and temporal dependencies.
 
+## Begginer User Steps
+> Step 1
 
+> Step 2
+
+> Step 3
 
 
 ## Try Fork :- https://kshitijxfrl-analytic-fork-mainapp-v37dds.streamlitapp.com/
