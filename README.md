@@ -13,11 +13,11 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) archit
 >  Step 1 
 Start with uploding the source csv as on which you wish to perform forcasting. (see sample csv)
 <h1 align="Left"><img src="./assets/step1.png" width="900px"></h1>
-> Step 2
+>  Step 2
 If you want play around with the settings like Sequence lenght and number of outputs you can do that just go to settings. There are few other settings to mess around but first get use to with these settings first.
 <h1 align="Left"><img src="./assets/step2(a)(b).png" width="500px"></h1>
 <h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
-> Step 3
+>  Step 3
 When you are done setting up the fork intialize the compute process by going clicking start and after the successful complition of the process hit the plot it button to the get thoes amazing results in the graphical form.
 <h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
 <h1 align="left"><img src="./assets/step3.png" width="600px"></h1>
