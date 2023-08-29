@@ -5,7 +5,7 @@ Analytic FORK is a analytical tool initially designed to analyse energy and wate
 
 ## LSTM
 
-![home screen](./assest/lstm.gif)
+![home screen](./assets/lstm.gif)
 
 
 
