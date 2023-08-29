@@ -22,6 +22,6 @@ When you are done setting up the fork intialize the compute process by going cli
 <h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
 <h1 align="left"><img src="./assets/step3.png" width="600px"></h1>
 
-## Developer Note 💭:- "Hello there!!, If you find yourself with any problem with or you want to use the custom modules in your project please feel free to reach out to me on my LinkedIn or on Twitter/X I will be really happy to help you out."
+## Developer Note 💭:- "Hello there!!, If you find yourself with any problem with the app or you want to use the custom modules in your project please feel free to reach out to me on my LinkedIn or on Twitter/X I will be really happy to help you out."
 
 ## ⭐ Try Fork ⭐ :- 
