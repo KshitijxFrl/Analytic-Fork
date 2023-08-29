@@ -20,6 +20,6 @@ If you want play around with the settings like Sequence lenght and number of out
 > Step 3
 When you are done setting up the fork intialize the compute process by going clicking start and after the successful complition of the process hit the plot it button to the get thoes amazing results in the graphical form.
 <h1 align="left"><img src="./assets/step2(c).png" width="900px"></h1>
-<h1 align="left"><img src="./assets/step3.png" width="900px"></h1>
+<h1 align="left"><img src="./assets/step3.png" width="600px"></h1>
 
 ## Try Fork :- https://kshitijxfrl-analytic-fork-mainapp-v37dds.streamlitapp.com/
